@@ -1,6 +1,6 @@
 {
-    "name": "drupal-composer/drupal-project",
-    "description": "Project template for Drupal 9 projects with Composer",
+    "name": "aliakseibykouski/drupal-adarvirog",
+    "description": "Adarvirog D9 back-end.",
     "type": "project",
     "license": "GPL-2.0-or-later",
     "authors": [
